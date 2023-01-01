@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ra0ar
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning about JavaScript and smart contracts. 
+- 🌱 I’m currently learning about JavaScript development and smart contracts. 
 - 💞️ I’m looking to collaborate on grants and bounties. 
 - 📫 You can reach me [here](https://github.com/ra0ar).
 
