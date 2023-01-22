@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ra0ar
+- 👋 Hi, I’m Richard
 - 👀 I’m interested in blockchain.
 - 🌱 I’m currently learning about JavaScript development, Ethereum development, and smart contracts. 
 - 💞️ I’m looking to collaborate on grants and bounties. 
